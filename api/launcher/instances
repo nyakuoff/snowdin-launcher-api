@@ -17,7 +17,7 @@
     "status": {
       "ip": "73.44.76.191",
       "port": 25565,
-      "nameserver": "Snowdin Vanilla"
+      "nameServer": "Snowdin Vanilla"
     }
   }
 }
