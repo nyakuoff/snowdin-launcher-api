@@ -1,25 +1,4 @@
 {
-  "_comment_snowdin-modpack": {
-    "name": "snowdin-modpack",
-    "description": "Official Snowdin server modpack with Forge",
-    "url": "https://nyakuoff.github.io/snowdin-launcher-api/files/modpack/",
-    "whitelistActive": false,
-    "whitelist": [],
-    "verify": true,
-    "ignored": ["logs", "crash-reports", "screenshots", "saves", "options.txt"],
-    "loader": {
-      "loader_type": "forge",
-      "loader_version": "47.2.0",
-      "minecraft_version": "1.20.1"
-    },
-    "jvm_args": [],
-    "game_args": [],
-    "status": {
-      "ip": "play.snowdin.fr",
-      "port": 25565,
-      "nameserver": "Snowdin"
-    }
-  },
   "snowdin-vanilla": {
     "name": "snowdin-vanilla",
     "description": "Vanilla Minecraft for Snowdin",
