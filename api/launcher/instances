@@ -2,7 +2,7 @@
   "snowdin-vanilla": {
     "name": "snowdin-vanilla",
     "description": "Vanilla Minecraft for Snowdin",
-    "url": "https://nyakuoff.github.io/snowdin-launcher-api/files/vanilla/",
+    "url": null,
     "whitelistActive": false,
     "whitelist": [],
     "verify": false,
